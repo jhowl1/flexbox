@@ -1,0 +1,28 @@
+.pai{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    
+}
+ .ney{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    
+    
+}
+.ney img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+  
+
+  
+
+
+
+ 

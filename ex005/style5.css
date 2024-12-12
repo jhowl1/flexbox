@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    text-decoration: none;
+    background-color: aqua;
+}
+
+.cabecalho{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 30px 60px;
+}
+.cabecalho ul{
+
+    display: flex;
+    gap: 20px;
+}
+.link{
+    display: flex;
+    
+    align-items: center;
+    gap: 550px;
+    
+    color:blue;
+}
+    
+.cabecalho a{
+    color: rgb(18, 18, 19);
+}
+.cabecalho p{
+    color: rgb(0, 0, 0);
+}

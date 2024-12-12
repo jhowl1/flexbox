@@ -1,0 +1,27 @@
+.pai-dos-filhos img {
+   width: 200px;
+}
+.pai-dos-filhos{
+   display: flex;
+   justify-content: space-between;  
+   padding: 30px 60px;
+   gap: 30px;
+   background-color: red;
+  
+}
+
+.pai-dos-filhos .produto {
+   background-color: rgb(64, 209, 209);
+   text-align: center;
+}
+
+.pai-dos-filhos .produto button{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px 80px;
+    background-color: #333;
+    color: #fff;
+    box-shadow: black 3px 3px 0px;
+    cursor:pointer;
+  
+}
